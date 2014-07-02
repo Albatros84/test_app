@@ -1,7 +1,7 @@
 module ApplicationHelper
 
   def hello_world
-    puts 'hello world dsf'
+    puts 'hello world dsfhgfhfgh'
   end
 
 end
